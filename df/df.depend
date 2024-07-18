@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645281602 source:c:\users\dell pc\documents\new folder\df\main.c
+	<stdio.h>
+	<time.h>
+
